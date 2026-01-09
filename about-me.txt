@@ -6,3 +6,4 @@ Why I'm learning Github
 - To manage my code projects
 -To collaborate with other developers
 -To build my portfolio
+I'm learning Git commands!
